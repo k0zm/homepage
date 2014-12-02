@@ -1,3 +1,0 @@
-Fred Kokot,Manager,Male,45
-Laura Spicena,Kurva,Female,23
-Debbie Watts,Nezamestnany,Male,38
